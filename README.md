@@ -1,5 +1,5 @@
 # Python Learning Project
-
+### Online school Kodland (autumn 2021)
 This repository contains solutions to programming exercises and projects focused on learning Python. It specifically covers working with the `tkinter`, `easygui`, and `Pillow` modules. Additionally, it includes a terminal-based game, "Rock, Paper, Scissors," and a collection of basic Python scripts.
 
 ## Contents
